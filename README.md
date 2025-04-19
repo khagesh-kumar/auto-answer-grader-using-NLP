@@ -3,9 +3,8 @@
 An intelligent **Automated Answer Script Evaluation System** built with **Python, Streamlit, and NLP** techniques. This project evaluates descriptive student answers by comparing them with model answers using text similarity algorithms.
 
 ## 🖥️ Screenshot
-![Demo Screenshot](https://github.com/khagesh-kumar/auto-answer-grader-using-NLP/blob/main/screenshots/demo.png?raw=true)
+![WhatsApp Image 2025-04-19 at 23 31 00_e782419f](https://github.com/user-attachments/assets/0350ed24-dbfa-413b-a39d-0776b12379d5)
 
-*(Replace with actual screenshot URL after uploading)*
 
 ## 🚀 Key Features
 
