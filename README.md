@@ -25,11 +25,11 @@ An intelligent **Automated Answer Script Evaluation System** built with **Python
 
 ## 📂 Project Structure
 auto-answer-grader-using-NLP/
-├── main.py                   # Main application logic
-├── requirements.txt          # Python dependencies
-├── sample_inputs/            # Test answer files
-│ ├── original.txt            # Model answer
-│ └── student.txt             # Student answer
+ ├── main.py                   # Main application logic
+ ├── requirements.txt          # Python dependencies
+ ├── sample_inputs/            # Test answer files
+ │ ├── original.txt            # Model answer
+ │ └── student.txt             # Student answer
 
 
 ## 🏃‍♂️ Getting Started
